@@ -8,7 +8,7 @@ date: 01-02-2024
 location: "Santos, Brasil"
 ---
 
-[Plano de Ensino](http://academicpages.github.io/files/Algoritmos_00_PlanoDeEnsino.pdf)
+[Plano de Ensino](http://walteroliveira.github.io/files/Algoritmos_00_PlanoDeEnsino.pdf)
 
 
 Heading 1
