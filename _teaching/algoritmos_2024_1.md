@@ -1,5 +1,5 @@
 ---
-title: "Algoritmos"
+title: "Algoritmos (2024-1)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/algoritmos_2024_1
