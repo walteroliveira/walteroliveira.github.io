@@ -8,7 +8,8 @@ date: 01-02-2024
 location: "Santos, Brasil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Plano de Ensino](http://academicpages.github.io/files/Algoritmos_00_PlanoDeEnsino.pdf)
+
 
 Heading 1
 ======
